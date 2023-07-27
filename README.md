@@ -38,7 +38,7 @@ To get started with the music genre classification project, follow these steps:
 
 6. Run the main script to perform the music genre classification: `python main.py`
 
-<!-- ### Note on Data
+### Note on Data
 
-Due to the size and privacy concerns of certain datasets, we might not be able to provide them within this repository. Instead, we will include instructions on how to obtain the required datasets from their official sources or provide alternative publicly available datasets that you can use for learning and experimentation. -->
+Due to the size and privacy concerns of certain datasets, we might not be able to provide them within this repository. Instead, we will include instructions on how to obtain the required datasets from their official sources or provide alternative publicly available datasets that you can use for learning and experimentation.
 
