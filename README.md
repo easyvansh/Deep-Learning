@@ -40,5 +40,5 @@ To get started with the music genre classification project, follow these steps:
 
 ### Note on Data
 
-Dataset Used for this project is the ![GTZAN Dataset - Music Genre Classification](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
+Dataset Used for this project is the [GTZAN Dataset - Music Genre Classification](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
 
